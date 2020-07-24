@@ -65,6 +65,9 @@
             <Link href="/styling">
                 <a className='nav-link'>Styling</a>
             </Link>
+            <Link href="/therouter">
+                <a className='nav-link'>Router</a>
+            </Link>
             <li className="nav-item dropdown">
               <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Dropdown
