@@ -1505,7 +1505,7 @@ eval("var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtim
 
 /***/ }),
 
-/***/ 3:
+/***/ 5:
 /*!**************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fstyling&absolutePagePath=%2FUsers%2Fandresnieves%2FDocuments%2FReact%2Farietis%2Fpages%2Fstyling.js ***!
   \**************************************************************************************************************************************************/
@@ -1528,4 +1528,4 @@ eval("module.exports = dll_5030f387d328e4415785;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[5,"static/runtime/webpack.js"]]]);
