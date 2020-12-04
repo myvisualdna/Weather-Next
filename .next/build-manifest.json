@@ -13,10 +13,6 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/404": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/_app": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
@@ -32,19 +28,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/styling": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/test": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/therouter": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
